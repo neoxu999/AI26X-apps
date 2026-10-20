@@ -1,0 +1,4 @@
+# Files generated during data processing and model training
+data_scaler.pkl
+*_data.csv
+models/
